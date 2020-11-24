@@ -1,0 +1,7 @@
+{
+    "server":{
+        "name":"Nodejs-server-api",
+        "port":9090,
+        "host":"192.168.56.1"
+    }
+}

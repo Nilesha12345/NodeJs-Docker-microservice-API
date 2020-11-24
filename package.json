@@ -1,0 +1,26 @@
+{
+  "name": "node-basic-api",
+  "version": "1.0.0",
+  "description": "Nodejs basic api microservice using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilesha12345/Nodejs-microservice-Express.git"
+  },
+  "type": "module",
+  "author": "Nilesh Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nilesha12345/Nodejs-microservice-Express/issues"
+  },
+  "homepage": "https://github.com/Nilesha12345/Nodejs-microservice-Express#readme",
+  "dependencies": {
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
