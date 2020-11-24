@@ -15,4 +15,4 @@ app.use(bodyparser.json())
 
 router(app);
 
-app.listen(config.server.port,()=>console.log(`server started on ${config.server.port}`));
+app.listen(config.server.port,()=>console.log(`Server started..));
